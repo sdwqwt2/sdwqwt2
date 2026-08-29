@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="README_ru.md">
+  <a href="README.md">
     <img src="https://img.shields.io/badge/Language-Русский-blue?style=flat-square" alt="RU">
   </a>
 </div>
