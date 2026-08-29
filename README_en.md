@@ -12,9 +12,9 @@ I am an ML engineer specializing in building applied AI products. I combine engi
 In my development process, I rely on a strong mathematical foundation and a deep understanding of algorithms. I focus on end-to-end product results: from training models to writing clean code, developing APIs, and containerizing in Docker. For me, it is important that the solution architecture is not only scalable and easy to integrate at subsequent development stages but also solves specific business problems.
 
 ### ⚙️ Professional Skills
-*   🔹 **Languages & Tools:** Python, SQL (PostgreSQL), Git, Docker, FastAPI.
-*   🔹 **Machine Learning:** PyTorch, Scikit-learn, OpenCV, Pandas, NumPy.
-*   🔹 **Approaches:** RAG system design, vector search algorithms, architecture optimization, Scrum.
+*    **Languages & Tools:** Python, SQL (PostgreSQL), Git, Docker, FastAPI.
+*    **Machine Learning:** PyTorch, Scikit-learn, OpenCV, Pandas, NumPy.
+*    **Approaches:** RAG system design, vector search algorithms, architecture optimization, Scrum.
 
 ### 💼 Experience & Key Projects
 
