@@ -39,4 +39,4 @@ In my development process, I rely on a strong mathematical foundation and a deep
 
 ### 📩 Contacts
 *   **Email:** iam@kurilenko-7.ru
-*   **Telegram:** [@sdwqwt2](https://t.me/sdwqwt)
+*   **Telegram:** [@sdwqwt](https://t.me/sdwqwt)
