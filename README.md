@@ -39,4 +39,4 @@
 
 ### 📩 Контакты
 *   **Email:** iam@kurilenko-7.ru
-*   **Telegram:** [@sdwqwt2](https://t.me/sdwqwt2)
+*   **Telegram:** [@sdwqwt](https://t.me/sdwqwt)
